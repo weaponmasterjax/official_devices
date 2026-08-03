@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "weaponmasterjax",
+      "currently_maintained": false,
+      "oem": "OnePlus",
+      "device": "OnePlus 12R/Ace 3",
+      "filename": "LumineDroid-bellflower-20260606-OFFICIAL-aston.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/aston/bellflower/LumineDroid-bellflower-20260606-OFFICIAL-aston.zip/download",
+      "timestamp": 1785781328,
+      "md5": "d005e3509bdca7f9002df0a83b7852ee",
+      "sha256": "1fc6a3d2df87985de9be58a6d63191ca56a1d0a2065b4e2ff9a115652603d46e",
+      "size": 2529096003,
+      "version": "bellflower",
+      "buildtype": "user",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
